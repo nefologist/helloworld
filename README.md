@@ -1,4 +1,4 @@
 helloworld
 ==========
 
-my first repo
+I am slowing try to understand github and its uses
